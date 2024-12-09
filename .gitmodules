@@ -1,0 +1,6 @@
+[submodule "dmit-vue-app"]
+	path = dmit-vue-app
+	url = https://github.com/cotein/dmit-facturador.git
+[submodule "dmit-facturador-landing-page"]
+	path = dmit-facturador-landing-page
+	url = https://github.com/cotein/dmit-factura-digital-landing-page.git
